@@ -1,0 +1,5 @@
+Temperature,Humidity,WindSpeed,Occupancy,Hour,Energy
+30,60,5,120,10,250
+32,55,6,150,12,300
+28,70,4,100,9,200
+35,50,7,180,14,350
